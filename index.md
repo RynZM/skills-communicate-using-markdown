@@ -7,3 +7,8 @@
 ``` javascript 
 var newVar = "Added code block to index file";
 ```
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code block
+- [x] Add a task list
+- [ ] more
